@@ -1,9 +1,13 @@
 {
   "images" : [
     {
-      "size" : "40x40",
       "idiom" : "ipad",
-      "filename" : "AppIcon80.png",
+      "size" : "20x20",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "ipad",
+      "size" : "20x20",
       "scale" : "2x"
     },
     {
@@ -19,6 +23,18 @@
       "scale" : "2x"
     },
     {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "spot40.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "AppIcon80.png",
+      "scale" : "2x"
+    },
+    {
       "size" : "76x76",
       "idiom" : "ipad",
       "filename" : "AppIcon76.png",
@@ -31,10 +47,9 @@
       "scale" : "2x"
     },
     {
-      "size" : "40x40",
       "idiom" : "ipad",
-      "filename" : "spot40.png",
-      "scale" : "1x"
+      "size" : "83.5x83.5",
+      "scale" : "2x"
     }
   ],
   "info" : {
